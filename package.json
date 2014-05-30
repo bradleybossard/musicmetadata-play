@@ -1,0 +1,23 @@
+{
+  "name": "musicmetadata-play",
+  "version": "0.0.0",
+  "description": "Playing around with musicmetadata",
+  "main": "example.js",
+  "dependencies": {
+    "musicmetadata": "~0.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bradleybossard/musicmetadata-play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleybossard/musicmetadata-play/issues"
+  },
+  "homepage": "https://github.com/bradleybossard/musicmetadata-play"
+}
